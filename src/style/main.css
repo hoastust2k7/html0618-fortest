@@ -23,6 +23,8 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    height: 100vh;
+
 }
 
 .main .home-page .home-page-header {
@@ -70,4 +72,60 @@ body {
 
 .main .home-page p a {
     color: #4c6fa7;
+}
+
+.main .html0227 {
+    background-color: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(8px);
+    height: 100vh;
+}
+
+.main .html0227 iframe {
+    margin-top: 60px;
+    width: 80vw;
+    min-height: calc(100vh - 120px);
+}
+
+.main .html0305 {
+    background-color: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(8px);
+    height: 100vh;
+}
+
+.main .html0305 iframe {
+    margin-top: 60px;
+    width: 80vw;
+    min-height: calc(100vh - 120px);
+}
+
+.main .html0320 {
+    background-color: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(8px);
+    height: 100vh;
+}
+
+.main .html0320 iframe {
+    margin-top: 60px;
+    width: 80vw;
+    min-height: calc(100vh - 120px);
+}
+
+.main .html0326 {
+    height: 100vh;
+}
+
+.main .html0326 iframe {
+    margin-top: 60px;
+    width: 80vw;
+    min-height: calc(100vh - 120px);
+}
+
+.main .html0604 {
+    height: 100vh;
+}
+
+.main .html0604 iframe {
+    margin-top: 60px;
+    width: 80vw;
+    min-height: calc(100vh - 120px);
 }

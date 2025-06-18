@@ -154,7 +154,7 @@
 }
 
 .navigator .nav-vertical-content-show .nav-list {
-    background-color: rgba(255, 255, 255, 0.04);
+    background-color: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
     flex-direction: column;
@@ -167,7 +167,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 136px;
+    width: 12em;
     height: 100vh;
     z-index: 1024;
 }
