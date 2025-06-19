@@ -21,7 +21,7 @@ function toggleMenu() {
 }
 
 function update() {
-    if (window.innerWidth < 500) {
+    if (window.innerWidth < 678) {
         navContent.classList.add("nav-vertical-content")
     } else {
         navContent.classList.remove("nav-vertical-content")
